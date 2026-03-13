@@ -41,16 +41,14 @@ This project explores strategies to improve **training efficiency in cooperative
 
 ---
 
-## Visualizations
-
 ### Training Phase – Exploration
 
-![Exploration Phase](assets/exploration.gif)  
+![Exploration Phase](thesis%20gifs/exploration.gif)  
 *Agents exploring the environment during training, learning cooperative strategies.*
 
 ### Execution Phase – Exploitation
 
-![Exploitation Phase](assets/exploitation.gif)  
+![Exploitation Phase](thesis%20gifs/exploitation.gif)  
 *Agents executing learned policies, demonstrating coordinated behavior in the environment.*
 
 ---
