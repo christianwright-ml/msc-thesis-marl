@@ -1,6 +1,6 @@
 # Cooperative Multi-Agent Reinforcement Learning (MARL) – Efficiency Enhancement
 
-This project explores strategies to improve **training efficiency in cooperative multi-agent reinforcement learning (MARL)**. Cooperative MARL is widely applicable to complex multi-agent systems, including autonomous vehicles, robotic swarms, distributed networks, and energy systems.  
+This project explores strategies to improve **training efficiency in cooperative multi-agent reinforcement learning (MARL)**. Cooperative MARL is widely applicable to complex multi-agent systems, including autonomous vehicles, robotic swarms, distributed networks, and energy systems.
 
 ---
 
@@ -9,7 +9,7 @@ This project explores strategies to improve **training efficiency in cooperative
 - Cooperative MARL models and analyses complex systems with multiple decision-makers.  
 - Key challenges in MARL: high training time, large data requirements, and computational costs.  
 - Cooperative settings add complexity due to **non-stationarity, credit assignment, and scalability**.  
-- Efficient learning is critical for practical deployment in real-world cooperative systems.  
+- Efficient learning is critical for practical deployment in real-world cooperative systems.
 
 ---
 
@@ -38,6 +38,20 @@ This project explores strategies to improve **training efficiency in cooperative
   - **Curiosity-driven / intrinsic motivation mechanisms**  
 
 - Performance metrics: learning speed, convergence stability, and coordination efficiency among agents.
+
+---
+
+## Visualizations
+
+### Training Phase – Exploration
+
+![Exploration Phase](assets/exploration.gif)  
+*Agents exploring the environment during training, learning cooperative strategies.*
+
+### Execution Phase – Exploitation
+
+![Exploitation Phase](assets/exploitation.gif)  
+*Agents executing learned policies, demonstrating coordinated behavior in the environment.*
 
 ---
 
